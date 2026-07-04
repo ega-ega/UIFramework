@@ -1,0 +1,21 @@
+{
+  "name": "com.egaega.uiframework",
+  "version": "0.1.0",
+  "displayName": "UI Framework",
+  "description": "A layered UI framework for Unity built around Zenject: views with async close awaiters, schema-driven layers (ScriptableObject), pluggable window systems (simple, single, stack, world-space) and view build processors.",
+  "unity": "6000.0",
+  "keywords": [
+    "ui",
+    "window",
+    "view",
+    "layer",
+    "zenject",
+    "unity"
+  ],
+  "author": {
+    "name": "Egor Shaldov",
+    "email": "egor.shaldov@gmail.com"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
